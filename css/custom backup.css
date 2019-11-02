@@ -1,0 +1,82 @@
+header{
+	min-height: 100px;
+	background-color: #f6f9f9;
+}
+.logo{
+    flex-basis: 30%;
+    max-width: 30%;
+}
+.logo a{}
+
+nav{
+    flex-basis: 70%;
+    max-width: 70%;
+    /* justify-content: flex-end; */
+}
+nav ul{
+    justify-content: flex-end;
+}
+nav ul li{}
+nav ul li a{
+    display: block;
+    padding: 10px 20px;
+}
+nav ul li a:hover{}
+
+.banner-section{}
+.bannner-content{}
+.bannner-content h1{}
+.bannner-content span{}
+.bannner-content p{}
+.bannner-content button{}
+.banner-section a{}
+.banner-section a:hover{}
+
+.about-section{}
+.about-section h2{}
+.about-section p{}
+
+.features-section{}
+.feature{}
+.feature-icon{}
+
+.showcase-section{}
+.showcase-section .heading{}
+.showcase-section .heading h2{}
+.showcase-section .heading p{}
+
+
+.showcase{}
+.showcase-detail{}
+.showcase-detail img{}
+.overlay{}
+.overlay a{}
+
+.contact-section{}
+.contact-section .overlay{}
+.contact-section{} .heading{}
+.contact-section{} .heading h2{}
+.contact-section{} .heading p{}
+
+
+.contact-form{}
+
+form{}
+form input{}
+form textarea{}
+
+form ul{}
+form ul li{}
+
+footer{}
+
+.copyright{}
+.copyright p{}
+
+.social{}
+.social ul{}
+.social ul li{}
+
+
+
+
